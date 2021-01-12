@@ -1,0 +1,1 @@
+FROM palantirtechnologies/bulldozer:latest
