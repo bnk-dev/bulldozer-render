@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: bulldozer
+    env: docker
+    dockerfilePath: ./Dockerfile
